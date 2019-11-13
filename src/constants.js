@@ -1,7 +1,0 @@
-export const FACEBOOK_URL = 'https://www.facebook.com/maihai86'
-export const LINKEDIN_URL = 'https://www.linkedin.com/in/mai-tien-hai-714448163/'
-export const GITHUB_URL = 'https://github.com/maihai86'
-export const MEDIUM_URL = 'https://medium.com/@maihai86'
-export const CV_URL = 'https://drive.google.com/file/d/1Y50dg2-ghRAyHiiaSyg89PQ-uVYMPXsW/view?usp=sharing'
-export const EMAIL = 'maihai86@gmail.com'
-export const MOBILE_NUMBER = '+84 988 083 486'
